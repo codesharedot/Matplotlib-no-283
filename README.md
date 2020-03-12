@@ -1,7 +1,7 @@
-# Plot no 150 
+# Matplotlib no 1 
 
-matplotlib example
+python example
 
-https://pythonbasics.org
+https://pythonprogramminglanguage.com
 
 
