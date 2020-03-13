@@ -1,4 +1,4 @@
-# Matplotlib no 72 
+# Matplotlib no 73 
 
 python example
 
