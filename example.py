@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 labels = ['A1', 'A2', 'A3', 'A4', 'A5']
-m_means = [8,5,10,0,2]
+m_means = [8,2,0,4,8]
 m_std = [2, 3, 4, 1, 2]
 width = 0.40       # the width of the bars
 
